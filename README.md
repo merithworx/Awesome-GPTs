@@ -843,6 +843,10 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
    - Have a team of GPTs work for you 🧑‍💼 👩‍💼 🧑🏽‍🔬 👨‍💼 🧑‍🔧! Please input a task, and TeamGPT will break down the task, then distribute them within a team, and have the team's GPTs work for you!
    - [Chat now](https://chat.openai.com/g/g-tCfHqANl9-teamgpt)
 
+9. 🧙 Grimoire
+   - Coding wizard: build websites and apps with just a sentence, with step-by-step guidance.
+   - [Chat now](https://chatgpt.com/g/g-n7Rs0IK86-grimoire)
+
 ## Lifestyle
 1. 🍅 MyNutrition.Pal
    - Your Dedicated Nutrition Consultant: Share meal images for personalized nutrient/calorie tracking and tailored advice and recipes.
