@@ -844,7 +844,7 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
    - [Chat now](https://chat.openai.com/g/g-tCfHqANl9-teamgpt)
 
 9. 🧙 Grimoire
-   - Coding wizard: build websites and apps with just a sentence, with step-by-step guidance.
+   - Coding wizard: build websites and apps with just a sentence, with step-by-step guidance and live previews.
    - [Chat now](https://chatgpt.com/g/g-n7Rs0IK86-grimoire)
 
 ## Lifestyle
