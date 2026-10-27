@@ -2,7 +2,7 @@
   <h2 align="center">Awesome-GPTs🦄 </h2>
   
   <p align="center">
-    <img width="650" src="https://raw.githubusercontent.com/ai-boost/awesome-gpts/main/images/gpts.png">
+    <img width="650" src="images/gpts.png">
   </p>
   
   <p>
@@ -236,7 +236,7 @@
 9. 🎥EditGPT
    - 你的视频编辑和为项目创建定制图片的首选伙伴。
    - [立即聊天](https://chat.openai.com/g/g-ZhPbXQIr5-editgpt)
-   - 由[@HeyitsRadinn](https://github.com/HeyitsRadinn) 提交
+   - 由@HeyitsRadinn 提交
 
 9. ✍学术论文翻译
    - 将专业学术论文翻译成浅显易懂的文章
@@ -302,12 +302,12 @@
 2. 🧳旅行向导GPT
    - 你的虚拟旅行伙伴，帮助你的旅行规划体验变得顺畅、有趣且富有信息性。
    - [立即聊天](https://chat.openai.com/g/g-MDExvbFqe-voyage-guide)
-   - 由[@HeyitsRadinn](https://github.com/HeyitsRadinn) 提交
+   - 由@HeyitsRadinn 提交
   
 3. 💺座位寻找者GPT
    - 座位寻找者擅长高效地协助用户根据大致位置寻找具有特定便利设施的公共座位。
    - [立即聊天](https://chat.openai.com/g/g-3AQM5NfzA-seat-seeker)
-   - 由[@HeyitsRadinn](https://github.com/HeyitsRadinn) 提交
+   - 由@HeyitsRadinn 提交
      
 4. 💐鲜花教练GPT
    - 用显化知识疗愈你，当你面临：🌘人生困境，💵显化财务丰盛，💞吸引sp，❤️‍🩹修复关系等问题时。同时结合内维尔等人的领域著作提供专业的显化技巧指导。

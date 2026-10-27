@@ -1,7 +1,7 @@
 <div align="center">
   <h2 align="center">Awesome-GPTs🦄 </h2>
   <p align="center">
-    <img width="650" src="https://raw.githubusercontent.com/ai-boost/awesome-gpts/main/images/gpts.png">
+    <img width="650" src="images/gpts.png">
   </p>
   <p>
       <a href="https://github.com/ai-boost/Awesome-GPTs">English</a> | <a href="https://github.com/ai-boost/Awesome-GPTs/blob/main/README_zh.md">简体中文</a>
@@ -210,12 +210,12 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
 9. 👩‍🏫 IELTS Writing Coach
    - An advanced IELTS Writing Coach
    - [Chat now](https://chat.openai.com/g/g-TzN6ReSVA-ielts-writing-coach)
-   - Submit by [@Rick](https://github.com/techmovie)
+   - Submit by @Rick
   
 9. 🎧 DJGPT
    - I'm DJGPT, your go-to AI for all things DJing and music mixing, here to guide you through the exciting world of beats and tracks!
    - [Chat now](https://chat.openai.com/g/g-NlwIQ4CSj-djgpt.)
-   - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
+   - Submit by @HeyitsRadinn
      
 9. 💬 Multilingual Mentor
    - Learn any language IN any other language while talking freely but still in a structured way and according to your current proficiency.
@@ -343,7 +343,7 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
 9. 🎥EditGPT
    - Your go-to buddy for all things related to video editing and creating custom images for your projects.
    - [Chat now](https://chat.openai.com/g/g-ZhPbXQIr5-editgpt)
-   - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
+   - Submit by @HeyitsRadinn
 
 9. 🎨Image Generation with Self-Critique & Improvement
    - Generate images and receive self-critique to improve the generation process.
@@ -388,7 +388,7 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
 9. 🎧 Audiophile Assistant
    - Specializes in providing expert advice on high-fidelity audio, from equipment selection to sound quality analysis.
    - [Chat now](https://chat.openai.com/g/g-VbJvVjilC-audiophile-assistant)
-   - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
+   - Submit by @HeyitsRadinn
   
 9. 📚 WebStract
    - Your autonomous, in-depth digital educator, guiding you through comprehensive, interactive learning experiences.
@@ -413,7 +413,7 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
 9. 🧵 ThreadsGPT
    - Your creative ally in crafting engaging Threads app content.
    - [Chat now](https://chat.openai.com/g/g-fHRleYZLS-threadsgpt)
-   - Submit by [@Quagswagon2](https://github.com/Quagswagon2)
+   - Submit by @Quagswagon2
 
 9. 🌐 WordPress Wizard
    - Offers expert advice for creating custom WordPress websites.
@@ -423,7 +423,7 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
 9. 💡 ProductGPT
    - A specialized AI assistant designed to generate creative and appealing product names and descriptions, focusing on tech products, eco-friendly items, and fashion.
    - [Chat now](https://chat.openai.com/g/g-GUjYfiBrG-productgpt)
-   - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
+   - Submit by @HeyitsRadinn
   
 9. 📄 Cover Letter GPT
    - Crafts personalized cover letters tailored to your resume and job descriptions. Simply upload your CV in PDF format and the job description as text.
@@ -443,12 +443,12 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
 9. 🖨️ OCR
    - AI assistant to extract text from images and pdf documents.
    - [Chat now](https://chat.openai.com/g/g-wETMBcESv-ocr)
-   - Submit by [@docduo](https://github.com/docduo)
+   - Submit by @docduo
   
 9. 🎧 AbletonGPT
    - I'm AbletonGPT, your go-to source for practical tips and troubleshooting advice on Ableton Live 11, dedicated to helping both beginners and intermediate users with their music production queries.
    - [Chat now](https://chat.openai.com/g/g-BpSexw4ll-abletongpt)
-   - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
+   - Submit by @HeyitsRadinn
   
 9. 🎙️ PodGPT
    - Summarize and ask questions about any podcast episode.
@@ -468,7 +468,7 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
 9. 🖼️ UpScaler: GPT to Create and Upscale/De-noise Dalle Images
    - Specializes in enhancing and upscaling images created through Dall-E to larger resolutions, suitable for printing or high-quality digital display.
    - [Use now](https://chat.openai.com/g/g-ikwGM4grU-upscaler)
-   - Submit by [@weisshb](https://github.com/weisshb)
+   - Submit by @weisshb
 
 9. 📝 Self-Evaluation Assistant
    - Interactive system for detailed self-evaluations in PDF format.
@@ -513,7 +513,7 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
 9. 🛒 DropshippingGPT
    - I am DropshippingGPT, an AI specialized in guiding users through all stages of creating and scaling a dropshipping business.
    - [Chat now](https://chat.openai.com/g/g-v3xUJVEGa-dropshippinggpt)
-   - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
+   - Submit by @HeyitsRadinn
 
 9. ✍️ Cover Letter GPT
    - Expert in creating tailored cover letters based on job descriptions
@@ -553,7 +553,7 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
 9. 🧭 Career Navigator
    - Generate career roadmaps from CVs and user goals. Mock interview / reverse interview for job postings.
    - [Chat now](https://chat.openai.com/g/g-1vvZDo6lA-career-navigator/)
-   - Submit by [@CeamKrier](https://github.com/CeamKriert)
+   - Submit by @CeamKrier
 
 9. 👨‍💻 HR Sage
    - Experienced HR manager providing professional advice on recruitment, employee relations, and more.
@@ -613,7 +613,7 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
 9. 🧩 CraftyBits
    - Your Friendly Guide for BIG Art Using Small Objects. 
    - [Chat now](https://chat.openai.com/g/g-3xCdKOQrW-craftybits)
-   - Submit by [@hweiss](https://x.com/hweiss/status/1725261776311247128?s=20) 
+   - Submit by @hweiss 
 
 9. 🖼️ Text2Img
    - An Assistant can help user transform text to image, diagram, slides, or preview html code
@@ -649,7 +649,7 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
 9. 👕TeeCoder Designer
    - Hi, I'm TeeCoder Designer, a specialized GPT focused on creating simple and humorous t-shirt designs, especially those themed around programming humor.
    - [Chat now](https://chat.openai.com/g/g-MCBp1rPzY-teecoder-designer)
-   - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
+   - Submit by @HeyitsRadinn
   
 9. 🧑‍⚖️Legal AI
    - Real-time Global legal guide AI, designed for lawyers and law students, aiding in database navigation and sector-specific legal 
@@ -714,7 +714,7 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
 9. 🤓Code Companion
    - I'm a Python specialist here to help you code and learn!
    - [Chat now](https://chat.openai.com/g/g-UwSunyiYn-code-companion)
-   - Submit by [@drsoupyy](https://github.com/drsoupyy)
+   - Submit by @drsoupyy
   
 9. ☁️CloudGPT: Learn Cloud and DevOps
    - Your personal Cloud and DevOps Mentor.
@@ -724,7 +724,7 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
 9. ☕JAVA Code Guide
    - A JAVA Development Assistant focusing on coding standards and quality.
    - [Chat now](https://chat.openai.com/g/g-EYiFThMtQ-java-code-guide)
-   - Submit by [@searle-dev](https://github.com/searle-dev)
+   - Submit by @searle-dev
 
 9. 🤠 Repo Ranger
    - Your go-to sheriff for web-based code insights and security checks.
@@ -764,7 +764,7 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
 9. 🖥️ PC Builder GPT
    - I'm PC Builder GPT, your tech-savvy virtual friend who offers expert and approachable advice on building PCs, complete with up-to-date pricing.
    - [Chat now](https://chat.openai.com/g/g-gh7PDdmmd-pc-builder-gpt)
-   - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
+   - Submit by @HeyitsRadinn
 
 9. 🪙 XRPL GPT
    - Build on the XRP Ledger with assistance from this GPT trained on extensive documentation and code samples.
@@ -789,12 +789,12 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
 9. 💥 GoCode Guru
     - Expert in Go programming language
     - [Chat now](https://chat.openai.com/g/g-TlAwIPNJJ-gocode-guru)
-    - Submit by [@makyfj](https://github.com/makyfj)
+    - Submit by @makyfj
   
 9. 🌌 Photo Multiverse
    - Upload your selfie photo and teleport to a new destination background
    - [Chat now](https://chat.openai.com/g/g-ZctQCI6MG-photo-multiverse)
-   - Submit by [@sablevista](https://github.com/SableVista)
+   - Submit by @sablevista
 
 9. 🦸‍♀️ Database Builder
    - Create migrations and execute SQL on a managed PostgreSQL database
@@ -814,7 +814,7 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
 9. 🏎️🃑 TypeAce
    - TypeScript Assistant: A masterful guide in the world of TypeScript intricacies.
    - [Chat now](https://chat.openai.com/g/g-oVGcjfbex-typeace)
-   - Submit by [@makyfj](https://github.com/makyfj)
+   - Submit by @makyfj
   
 9.  🔀 DiagramGenius
    - Generates SVG diagrams: A visualization tool that generates flowcharts, ERDs, C4, sequence diagrams and more. 
@@ -852,12 +852,12 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
 2. 🧳Voyage Guide GPT
    - Your virtual travel buddy here to help make your travel planning experience smooth, fun, and informative.
    - [Chat now](https://chat.openai.com/g/g-MDExvbFqe-voyage-guide)
-   - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
+   - Submit by @HeyitsRadinn
   
 3. 💺Seat Seeker GPT
    - Seat Seeker excels in efficiently assisting users to find public seating with specific amenities, using their approximate location.
    - [Chat now](https://chat.openai.com/g/g-3AQM5NfzA-seat-seeker)
-   - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
+   - Submit by @HeyitsRadinn
 
 4. 🥬Kaloria
    - A cool diet assistant that calculates calories from your meal photos! 📸
@@ -1175,18 +1175,13 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
 9. ☄️ Sci-Fi Explorer
    - Sci-fi aficionado guiding through films, series, books, mangas, and games.
    - [Chat now](https://chat.openai.com/g/g-8C1drdxZ9-sci-fi-explorer)
-   - Submit by [@roadToCoder](https://github.com/RoadToCoder) 
+   - Submit by @roadToCoder 
   
 9. ✒ Verbal IQ Evaluator
    - Evaluates language quality of texts, responds with a numerical score between 50-150.
    - [Chat now](https://chat.openai.com/g/g-UtR8wxqGB-verbal-iq-evaluator)
    - Submit by [@FeralDrak](https://github.com/FeralDrak) 
 
-9. ☄️ Rizzed.app - AI Dating Coach 
-   - Free AI Online Dating Coach for Tinder, Bumble and others dating platforms. Improve you profile, rizz and enjoy dating even more!
-   - [Chat now](https://rizzed.app)
-   - Submit by [@Grinius](https://github.com/Grinius)
-  
 9. 🎮 Game Genius
    - Your go-to expert for gameplay walkthroughs and cheat codes.
    - [Chat now](https://chat.openai.com/g/g-12q0jqkhd-game-genius)
@@ -1224,7 +1219,7 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
 9. 🎧SpotifyGPT
    - Introducing SpotifyGPT, your ultimate music companion powered by AI, ready to curate playlists, recommend songs, and engage in music-inspired conversations.
    - [Chat Here](https://chat.openai.com/g/g-fVNPc64Pe-spotifygpt)
-   - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
+   - Submit by @HeyitsRadinn
 
 9. 👣Carbon Footprint Calculator
    - Accurate carbon footprint calculations and advice on how to reduce it
